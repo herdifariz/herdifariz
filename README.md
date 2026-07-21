@@ -1,4 +1,7 @@
 <h2 align="left">Hi 👋! My name is Herdi and I'm a passionate Backend Developer, from Indonesia.</h2>
+
+### Portfolio
+
 <p align="left">
   🌐 <a href="https://astoris.my.id">Visit My Portfolio</a>
 </p>
@@ -41,7 +44,7 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="50" alt="postman logo"  />
 </div>
 
-###
+### Get In Touch
 
 <div align="left">
   <a href="emp.ti" target="_blank">
