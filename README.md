@@ -1,4 +1,7 @@
-<h1 align="left">Hi 👋! My name is Herdi and I'm a passionate Software Developer, from Yogyakarta</h1>
+<div align="center">
+  <h1>Hi , I'm Herdi</h1>
+  <h3>Software Developer • Laravel • Node.js • Cloud Enthusiast</h3>
+</div>
 
 ## Portfolio
 
