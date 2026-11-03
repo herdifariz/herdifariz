@@ -6,7 +6,7 @@
 ## Portfolio
 
 <p align="left">
-  🌐 <a href="https://astoris.my.id">Visit My Portfolio</a>
+  🌐 <a href="https://herdifariz.github.io">Visit My Portfolio</a>
 </p>
 
 ## Stats
